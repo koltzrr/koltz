@@ -1,1 +1,2 @@
-# koltz
+# About me
+### finding my way
